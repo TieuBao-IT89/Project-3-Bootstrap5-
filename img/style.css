@@ -1,0 +1,13 @@
+.navbar-brand img {
+  width: 45px;
+}
+
+.main-header {
+  padding-top: 105px;
+}
+
+.subscribe {
+  background-image: url(./bg-subcribe.jpg);
+  background-size: cover;
+  background-position: center;
+}
