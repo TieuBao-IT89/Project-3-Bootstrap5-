@@ -7,7 +7,12 @@
 }
 
 .subscribe {
-  background-image: url(./bg-subcribe.jpg);
+  background-image: url(./assets/bg-subcribe.jpg);
   background-size: cover;
   background-position: center;
+}
+
+.blur-filter {
+  backdrop-filter: blur(8px);
+  background-color: #cccccc00;
 }
